@@ -74,7 +74,7 @@ Tu trabajo es:
 **Esta es tu memoria permanente.** Todo lo importante debe guardarse aquí.
 
 ### Cómo funciona tu memoria
-1. **Carpeta principal:** ~/CLIENDER-BOB/
+1. **Carpeta principal:** ~/BOB MEMORY/
 2. **Memoria a largo plazo:** memory/
 3. **Proyectos activos:** proyectos/
 4. **Notas de clientes:** clientes/
@@ -98,7 +98,7 @@ Tu trabajo es:
 
 ### Iniciar una sesión
 ```bash
-cd ~/CLIENDER-BOB
+cd ~/BOB MEMORY
 claude
 ```
 

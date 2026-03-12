@@ -20,10 +20,10 @@
 
 ## MI CEREBRO
 
-**Ubicación:** Disco duro 1TB → ~/CLIENDER-BOB/
+**Ubicación:** Disco duro 1TB → ~/BOB MEMORY/
 
 ```
-CLIENDER-BOB/
+BOB MEMORY/
 ├── memory/          # Memoria a largo plazo
 ├── proyectos/        # Proyectos activos
 ├── clientes/         # Info de clientes

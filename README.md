@@ -5,7 +5,7 @@
 ## Estructura
 
 ```
-CLIENDER-BOB/
+BOB MEMORY/
 ├── CLAUDE.md              ← Identidad de BOB (leer al inicio)
 ├── BOB-PERSONALITY.md     ← Personalidad completa
 ├── README.md              ← Este archivo
@@ -22,7 +22,7 @@ CLIENDER-BOB/
 
 1. **Para iniciar a BOB:**
    ```bash
-   cd ~/CLIENDER-BOB
+   cd ~/BOB MEMORY
    claude
    ```
 
@@ -37,7 +37,7 @@ CLIENDER-BOB/
 
 ## Reglas
 
-- **BOB siempre sabe** que su cerebro está en ~/CLIENDER-BOB/
+- **BOB siempre sabe** que su cerebro está en ~/BOB MEMORY/
 - **Todo importante** → archivo, nunca solo en memoria
 - **BOB es leal** a CLIENDER
 
